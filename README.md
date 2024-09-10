@@ -16,6 +16,7 @@ Soy un desarrollador junior con experiencia en la creación de aplicaciones web 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 <br>
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -27,5 +28,4 @@ Soy un desarrollador junior con experiencia en la creación de aplicaciones web 
 ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Webflow](https://img.shields.io/badge/-Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)
-![FlutterFlow](https://img.shields.io/badge/-FlutterFlow-02569B?style=flat-square&logo=flutter&logoColor=white)
 
