@@ -1,6 +1,6 @@
 # ¡Hola! Soy Carlos Torres 👋
 
-### Acerca de mí
+### Acerca de
 Soy un desarrollador junior con experiencia en la creación de aplicaciones web y móviles. Me apasiona aprender nuevas tecnologías y mejorar constantemente mis habilidades. Estoy orientado a resultados y disfruto trabajando en proyectos que resuelvan problemas del mundo real y aporten valor.
 
 ### Tecnologías
