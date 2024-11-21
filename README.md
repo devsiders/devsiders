@@ -7,4 +7,4 @@
 💡 Mi objetivo es seguir creciendo como profesional, adquiriendo experiencia en diferentes entornos tecnológicos y ayudando a construir un futuro más innovador.  
 
 ### 📫 ¡Contáctame!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/carlosalberto-torres/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosalberto-torres/)  
