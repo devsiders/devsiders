@@ -9,7 +9,4 @@
 <br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=devsiders&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
